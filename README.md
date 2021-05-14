@@ -1,3 +1,3 @@
 # quote-gen
 Quote genrator
-![ScreenShot]
+![Screenshot](Capture_1.PNG)
